@@ -1,6 +1,6 @@
 # Hi, I'm Henry 👋
 
-I’m a Software Engineer with **5+ years of experience** building production-grade applications with interest in DevOps and Cloud Engineering.
+I’m a Software Engineer with **6+ years of experience** building production-grade applications with interest in DevOps and Cloud Engineering.
 
 ## 🚀 About Me
 
