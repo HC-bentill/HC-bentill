@@ -4,7 +4,7 @@ I’m a Software Engineer with **6+ years of experience** building production-gr
 
 ## 🚀 About Me
 
-* 5 years building production-grade applications using .NET Core and React.js .
+* 6 years building production-grade applications using .NET Core and React.js .
 * Currently sharpening my DevOps stack: **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux, CI/CD**.
 * Passionate about clean architecture, automation, and reliable systems.
 * Interested in microservices, container orchestration, and infrastructure as code.
