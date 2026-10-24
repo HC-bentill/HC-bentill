@@ -4,27 +4,20 @@ I’m a Software Engineer with **6+ years of experience** building production-gr
 
 ## 🚀 About Me
 
-* 6 years building production-grade applications using .NET Core and React.js .
+* 6 years building production-grade applications using .NET Core, Java (spring boot) and React.js .
 * Currently sharpening my DevOps stack: **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux, CI/CD**.
 * Passionate about clean architecture, automation, and reliable systems.
 * Interested in microservices, container orchestration, and infrastructure as code.
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript, JavaScript, Python (Learning), C#, Bash
+**Languages:** TypeScript, JavaScript, Python (Learning), C#, Bash, Java
 
 **DevOps & Cloud:** Docker, Kubernetes, AWS, Terraform, GitHub Actions, Nginx
 
 **Databases:** PostgreSQL, MongoDB, Redis
 
 **Tools:** Git, Linux, VS Code, Prometheus & Grafana, Jenkins (learning)
-
-## 📝 Currently Learning
-
-* Kubernetes advanced patterns
-* Terraform modules & workspaces
-* Cloud cost optimization
-* GitOps (ArgoCD)
 
 ## 🤝 Open to Collaboration
 
